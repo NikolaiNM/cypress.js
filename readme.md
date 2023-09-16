@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-icons.com%2Fru%2F%25D0%25B7%25D0%25BD%25D0%25B0%25D1%2587%25D0%25BE%25D0%25BA%2F%25D0%259A%25D0%25B8%25D0%25BF%25D0%25B0%25D1%2580%25D0%25B8%25D1%2581-%25D0%25BB%25D0%25BE%25D0%25B3%25D0%25BE%25D1%2582%25D0%25B8%25D0%25BF%2F247239&psig=AOvVaw3ACZoOPsAvctlY9utxpbXx&ust=1694970760434000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJDW3bHQr4EDFQAAAAAdAAAAABAE" alt="Sublime's custom image"/>
+  <img src="https://cdn.icon-icons.com/icons2/3911/PNG/512/cypress_logo_icon_247239.png" alt="Sublime's custom image"/>
 </p>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Автотест+Cypress+JS)
